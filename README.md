@@ -1,5 +1,5 @@
-# Ride-Booking-Performance-Dashboard.
-End-to-End Ride Performance Dashboard using Google Sheets.
+# Ride Booking Performance Dashboard.
+End-to-End Ride Performance Dashboard using **Google Sheets.**
 
 # Project Summary:-
 This project analyzes ride booking data to understand **Business Performance**, **Customer Behavior**, and **Operational Efficiency.** The analysis is performed using **Google Sheets**, focusing on **KPIs, Pivot Tables, Charts, and Dashboard.**
